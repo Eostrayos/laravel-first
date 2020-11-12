@@ -1,91 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="06223e4f-74be-4d6a-a959-0ec4264f8f7a" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/proje/.editorconfig" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/.env.example" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/.gitattributes" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/.styleci.yml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/README.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Console/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Exceptions/Handler.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Http/Controllers/Controller.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Http/Kernel.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Http/Middleware/Authenticate.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Http/Middleware/EncryptCookies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Http/Middleware/PreventRequestsDuringMaintenance.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Http/Middleware/RedirectIfAuthenticated.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Http/Middleware/TrimStrings.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Http/Middleware/TrustHosts.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Http/Middleware/TrustProxies.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Http/Middleware/VerifyCsrfToken.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Models/User.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Providers/AppServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Providers/AuthServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Providers/BroadcastServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Providers/EventServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/app/Providers/RouteServiceProvider.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/artisan" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/bootstrap/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/bootstrap/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/composer.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/composer.lock" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/config/app.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/config/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/config/broadcasting.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/config/cache.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/config/cors.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/config/database.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/config/filesystems.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/config/hashing.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/config/logging.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/config/mail.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/config/queue.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/config/services.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/config/session.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/config/view.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/database/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/database/factories/UserFactory.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/database/migrations/2014_10_12_000000_create_users_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/database/migrations/2014_10_12_100000_create_password_resets_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/database/migrations/2019_08_19_000000_create_failed_jobs_table.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/database/seeders/DatabaseSeeder.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/package.json" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/phpunit.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/public/.htaccess" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/public/favicon.ico" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/public/index.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/public/robots.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/public/web.config" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/resources/css/app.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/resources/js/app.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/resources/js/bootstrap.js" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/resources/lang/en/auth.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/resources/lang/en/pagination.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/resources/lang/en/passwords.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/resources/lang/en/validation.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/resources/views/welcome.blade.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/routes/api.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/routes/channels.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/routes/console.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/routes/web.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/server.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/storage/app/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/storage/app/public/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/storage/framework/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/storage/framework/cache/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/storage/framework/cache/data/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/storage/framework/sessions/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/storage/framework/testing/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/storage/framework/views/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/storage/logs/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/tests/CreatesApplication.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/tests/Feature/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/tests/TestCase.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/tests/Unit/ExampleTest.php" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/proje/webpack.mix.js" afterDir="false" />
-    </list>
+    <list default="true" id="06223e4f-74be-4d6a-a959-0ec4264f8f7a" name="Default Changelist" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +26,7 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="RunOnceActivity.OpenProjectViewOnStart" value="true" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="nodejs_package_manager_path" value="npm" />
@@ -123,11 +40,33 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1605217723438</updated>
-      <workItem from="1605217724898" duration="414000" />
+      <workItem from="1605217724898" duration="741000" />
     </task>
+    <task id="LOCAL-00001" summary="first commit">
+      <created>1605218246737</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1605218246737</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="first commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="first commit" />
+  </component>
+  <component name="WindowStateProjectService">
+    <state x="585" y="88" key="CommitChangelistDialog2" timestamp="1605218243340">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="585" y="88" key="CommitChangelistDialog2/0.0.1920.1040@0.0.1920.1040" timestamp="1605218243340" />
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2" timestamp="1605218311929">
+      <screen x="0" y="0" width="1920" height="1040" />
+    </state>
+    <state x="552" y="252" key="Vcs.Push.Dialog.v2/0.0.1920.1040@0.0.1920.1040" timestamp="1605218311929" />
   </component>
 </project>
